@@ -1,0 +1,35 @@
+{
+  "usuario": {
+    "id": "1001",
+    "nome": "Funcionário",
+    "nif": "1001",
+    "email": "funcionario@empresa.com"
+  },
+  "local-trabalho": {
+    "nome": "SENAI Americana",
+    "latitude": -22.7539638,
+    "longitude": -47.3508103
+  },
+  "pontos": [
+    {
+      "usuarioId": "1001",
+      "tipo": "Entrada",
+      "latitude": -22.7538567,
+      "longitude": -47.35138,
+      "dataHora": "2026-10-08T12:00:28.801Z",
+      "localTrabalho": "SENAI Americana",
+      "distancia": 59.61920469436951,
+      "id": 1
+    },
+    {
+      "usuarioId": "1001",
+      "tipo": "Entrada",
+      "latitude": -22.7538567,
+      "longitude": -47.35138,
+      "dataHora": "2026-10-08T12:00:40.802Z",
+      "localTrabalho": "SENAI Americana",
+      "distancia": 59.61920469436951,
+      "id": 2
+    }
+  ]
+}
